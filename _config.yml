@@ -1,6 +1,6 @@
 name: Moore2Life
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8074894973542541
 title: The Life and Time of Jay Moore
 cta:
   domain: null
@@ -24,3 +24,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.4219840874429792
